@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1539255742 source:d:\udinus\kuliah smt 3\strukdat\teori\tugas 1 (list)\linked_list\main.c
+	"header.h"
+
+1539255816 source:d:\udinus\kuliah smt 3\strukdat\teori\tugas 1 (list)\linked_list\fungsi.c
+	"header.h"
+
+1539256153 d:\udinus\kuliah smt 3\strukdat\teori\tugas 1 (list)\linked_list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1539327909 source:d:\tugas struktur data\linked_list\linked_list\fungsi.c
+	"header.h"
+
+1539327909 d:\tugas struktur data\linked_list\linked_list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1539327909 source:d:\tugas struktur data\linked_list\linked_list\main.c
+	"header.h"
+

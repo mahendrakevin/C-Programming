@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542855194 source:d:\stek\queuestack\function.c
+	"header.h"
+
+1542855194 d:\stek\queuestack\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1542855296 source:d:\stek\queuestack\main.c
+	"header.h"
+

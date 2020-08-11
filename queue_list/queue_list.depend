@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1542855300 source:c:\users\labdas\desktop\queue_list\main.c
+	"header.h"
+
+1542855192 c:\users\labdas\desktop\queue_list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1542855200 source:c:\users\labdas\desktop\queue_list\fungsi.c
+	"header.h"
+
+1543394136 source:d:\udinus\kuliah smt 3\strukdat\psda\psda6\queue_list\fungsi.c
+	"header.h"
+
+1543394030 d:\udinus\kuliah smt 3\strukdat\psda\psda6\queue_list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1543394068 source:d:\udinus\kuliah smt 3\strukdat\psda\psda6\queue_list\main.c
+	"header.h"
+
+1543394259 source:g:\tugas struktur data\queue_list\main.c
+	"header.h"
+
+1543458438 g:\tugas struktur data\queue_list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1543458438 source:g:\tugas struktur data\queue_list\fungsi.c
+	"header.h"
+

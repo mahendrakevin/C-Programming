@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1542212790 source:d:\matkul\ngaslab strukdat 2018-2019\minggu 10\stacklist\main.c
+	"pustaka.h"
+
+1542212790 d:\matkul\ngaslab strukdat 2018-2019\minggu 10\stacklist\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1542212809 source:d:\matkul\ngaslab strukdat 2018-2019\minggu 10\stacklist\pustaka.c
+	"pustaka.h"
+
+1542212900 source:d:\stek\stacklist\main.c
+	"pustaka.h"
+
+1542212792 d:\stek\stacklist\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1542853544 source:d:\stek\stacklist\pustaka.c
+	"pustaka.h"
+
